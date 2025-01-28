@@ -1,4 +1,7 @@
 ;Write an X86/64 ALP to accept five hexadecimal numbers from the user and store them in an array and display the accepted numbers
+; Ahutosh Singh
+; Date 20/01/2025
+
 
 %macro inout 4 
 	mov rax,%1
